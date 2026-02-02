@@ -25,9 +25,9 @@ export default function Navbar() {
           <Image
             src="/logos/logo.png"
             alt="Brotar"
-            width={200}
-            height={80}
-            className="h-16 md:h-20 w-auto object-contain"
+            width={160}
+            height={48}
+            className="h-10 md:h-12 w-auto object-contain"
             priority
           />
         </a>
