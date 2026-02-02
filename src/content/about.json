@@ -1,0 +1,24 @@
+{
+  "title": "Quem Somos",
+  "description": "A Brotar é uma empresa de construção com visão integrada do processo habitacional. Não atuamos apenas na execução da obra, mas na estruturação completa do projeto, assumindo responsabilidade por todas as etapas da construção.",
+  "highlight": "Nascemos com visão de longo prazo, método construtivo definido e foco em qualidade, previsibilidade e continuidade.",
+  "mission": {
+    "title": "Missão",
+    "text": "Construir casas com método, previsibilidade e responsabilidade, assumindo toda a jornada do cliente."
+  },
+  "vision": {
+    "title": "Visão",
+    "text": "Ser referência em Portugal na construção de habitações modernas, eficientes e bem planeadas."
+  },
+  "values": {
+    "title": "Valores",
+    "list": [
+      "Responsabilidade",
+      "Planeamento",
+      "Transparência",
+      "Qualidade",
+      "Inovação",
+      "Relações duradouras"
+    ]
+  }
+}

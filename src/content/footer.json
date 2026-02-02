@@ -1,0 +1,14 @@
+{
+  "copyright": "© 2025 Brotar. Todos os direitos reservados.",
+  "groupLink": {
+    "text": "Grupo Molteplici",
+    "url": "https://molteplici-group.vercel.app"
+  },
+  "nav": [
+    { "label": "Início", "href": "#" },
+    { "label": "Quem Somos", "href": "#about" },
+    { "label": "O Que Fazemos", "href": "#services" },
+    { "label": "Diferenciais", "href": "#differentiators" },
+    { "label": "Contacto", "href": "#contact" }
+  ]
+}

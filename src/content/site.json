@@ -1,0 +1,20 @@
+{
+  "name": "Brotar",
+  "tagline": "Construir é só o começo.",
+  "description": "Empresa de construção com visão integrada do processo habitacional",
+  "language": "pt-PT",
+  "contact": {
+    "phone": "+351 XXX XXX XXX",
+    "whatsapp": "+380970530699",
+    "email": "contato@brotar.pt",
+    "address": "Portugal"
+  },
+  "social": {
+    "instagram": "",
+    "linkedin": "",
+    "facebook": ""
+  },
+  "links": {
+    "group": "https://molteplici-group.vercel.app"
+  }
+}

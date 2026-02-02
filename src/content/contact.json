@@ -1,0 +1,29 @@
+{
+  "title": "Fale Connosco",
+  "subtitle": "Vamos falar sobre a sua casa.",
+  "description": "A primeira conversa é para entender o seu momento e avaliar o melhor caminho para o seu projeto.",
+  "cta": "Venha construir com a Brotar.",
+  "form": {
+    "name": {
+      "label": "Nome",
+      "placeholder": "O seu nome"
+    },
+    "email": {
+      "label": "Email",
+      "placeholder": "O seu email"
+    },
+    "phone": {
+      "label": "Telefone",
+      "placeholder": "O seu telefone"
+    },
+    "message": {
+      "label": "Mensagem",
+      "placeholder": "Como podemos ajudar?"
+    },
+    "submit": "Enviar Mensagem"
+  },
+  "whatsapp": {
+    "text": "Falar no WhatsApp",
+    "number": "380970530699"
+  }
+}
