@@ -4,7 +4,6 @@ import services from '@/content/services.json'
 const logos = {
   'realiza': '/logos/brotar-realiza.png',
   'constroi': '/logos/brotar-constroi.png',
-  'care': '/logos/brotar-care.png',
 }
 
 export default function Services() {
@@ -20,7 +19,7 @@ export default function Services() {
           </p>
         </div>
 
-        <div className="grid md:grid-cols-3 gap-8">
+        <div className="grid md:grid-cols-2 gap-8 max-w-4xl mx-auto">
           {services.items.map((service) => (
             <div
               key={service.id}
