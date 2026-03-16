@@ -1,24 +1,18 @@
 {
   "title": "O Que Fazemos",
-  "subtitle": "A atuação da Brotar está organizada em três etapas.",
+  "subtitle": "A atividade da Brotar organiza-se em duas etapas principais.",
   "items": [
     {
       "id": "realiza",
       "name": "Brotar Realiza",
-      "description": "Viabilização do terreno, análise técnica e enquadramento financeiro.",
+      "description": "Análise de viabilidade urbanística do terreno, avaliação técnica e enquadramento financeiro do projeto.",
       "icon": "clipboard-check"
     },
     {
       "id": "constroi",
       "name": "Brotar Constrói",
-      "description": "Projetos de arquitetura e engenharia, licenciamento e construção com gestão de prazo, custo e qualidade.",
+      "description": "Projetos de arquitetura e especialidades de engenharia, licenciamento e execução da obra com gestão de prazos, custos e qualidade.",
       "icon": "building"
-    },
-    {
-      "id": "care",
-      "name": "Brotar Care",
-      "description": "Acompanhamento pós-obra, garantias legais, manutenção e suporte técnico contínuo.",
-      "icon": "heart"
     }
   ]
 }

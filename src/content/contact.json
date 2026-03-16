@@ -1,8 +1,8 @@
 {
   "title": "Fale Connosco",
-  "subtitle": "Vamos falar sobre a sua casa.",
-  "description": "A primeira conversa é para entender o seu momento e avaliar o melhor caminho para o seu projeto.",
-  "cta": "Venha construir com a Brotar.",
+  "subtitle": "Vamos falar sobre o seu projeto de moradia.",
+  "description": "A primeira conversa serve para compreender o seu momento e avaliar o melhor caminho para desenvolver o seu projeto.",
+  "cta": "Construa o seu Lar com a Brotar.",
   "form": {
     "name": {
       "label": "Nome",
@@ -18,9 +18,9 @@
     },
     "message": {
       "label": "Mensagem",
-      "placeholder": "Como podemos ajudar?"
+      "placeholder": "Em que podemos ajudar?"
     },
-    "submit": "Enviar Mensagem"
+    "submit": "Enviar mensagem"
   },
   "whatsapp": {
     "text": "Falar no WhatsApp",
